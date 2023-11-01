@@ -2,7 +2,7 @@
 	{
 		"name": "Grafted Scion",
 		"unitType": "Mounted",
-		"uniqueTo": "Aliens",
+		"uniqueTo": "Stormveil",
 		"replaces": "Lancer",
 		"movement": 4,
 		"strength": 30,
