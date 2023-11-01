@@ -21,10 +21,10 @@
 
 		"hateHello": "What must this unworthy one need?",
 		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
+		"hateNo": ["That is not possible!","I shalt not agree to that!","I beg your pardon?"],
 		"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
-		"afterPeace": "Thou shalt have peace. I did not want to graft your body parts anyway.",
+		"afterPeace": "Thou shalt have peace. Thou'rt unfit even to graft.",
 		"tradeRequest": "Thou'rt honored to be granted this offer. Will thou accept?",
 
 		"outerColor": [255,216,16],
