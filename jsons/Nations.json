@@ -1,8 +1,8 @@
 [
 	{
-		"name": "The Golden Lineage",
+		"name": "Stormveil",
 		"leaderName": "Godrick the Grafted",
-		"adjective": ["Golden"],
+		"adjective": ["Storming"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		
